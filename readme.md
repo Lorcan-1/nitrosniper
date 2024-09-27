@@ -7,12 +7,12 @@ Nitro Sniper is a Python-based self-bot designed to quickly snatch Discord Nitro
 ### Disclaimer
 
 Using self-bots is against Discord's Terms of Service. This tool is for educational purposes only. Use it at your own risk.
+using a language such as go for efficiency may yield greater results as it is a compiled language with a built in concurrency monitor
 
 ## Features
 
-- **Real-time Monitoring**: Continuously watches designated channels for Nitro code messages.
+- **Real-time Monitoring**: Continuously watches channels for Nitro code messages.
 - **Instant Claiming**: Automatically claims the first Nitro code detected.
-- **Customizable Settings**: Easily adjust settings for channel IDs and other parameters.
 - **Detailed Logging**: Keeps track of actions and any claimed codes.
 
 ## Installation
