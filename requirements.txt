@@ -1,0 +1,5 @@
+httpx
+requests
+discord.py
+asyncio
+colorama
