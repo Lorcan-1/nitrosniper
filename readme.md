@@ -17,11 +17,11 @@ Using self-bots is against Discord's Terms of Service. This tool is for educatio
 
 ## Installation
 
-1. **use**:
+1. **Setup**:
    ```bash
    git clone https://github.com/yourusername/nitro-sniper.git
    cd nitro-sniper
    pip install -r requirements.txt
-   python main.py```
+   python main.py
 
 
